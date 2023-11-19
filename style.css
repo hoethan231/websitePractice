@@ -193,6 +193,23 @@ section {
     margin-bottom: 1rem;
 }
 
+.title {
+    font-size: 1.75rem;
+    text-align: 1rem;
+}
 
+#social-contianer {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem;
+}
+
+/* Icon */
+
+.icon {
+    cursor: pointer;
+    height: 2rem;
+}
 
 
